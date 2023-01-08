@@ -1,0 +1,31 @@
+{
+  "name": "modern-data-team",
+  "version": "0.0.1",
+  "description": "Modern Data Team",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyet/modern-data-team.git"
+  },
+  "author": "Duyet Le <me@duyet.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duyet/modern-data-team/issues"
+  },
+  "homepage": "https://github.com/duyet/modern-data-team#readme",
+  "dependencies": {
+    "next": "^13.0.6",
+    "nextra": "2.0.1",
+    "nextra-theme-docs": "2.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.18",
+    "typescript": "4.9.4"
+  }
+}

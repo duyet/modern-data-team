@@ -1,0 +1,10 @@
+{
+  "index": "Introduction",
+  "strategy": "Data Team Strategy",
+  "types-of-work": "Types of Work",
+  "technical": "Technical",
+  "about": {
+    "title": "About",
+    "type": "page"
+  }
+}
