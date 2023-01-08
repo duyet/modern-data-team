@@ -10,6 +10,8 @@ Whether you're just starting out or looking to revamp your existing data team,
 you'll find valuable insights and practical advice here. 
 So let's get started on building the ultimate modern data team!
 
+See more at https://modern-data-team.vercel.app
+
 ## Local Development
 
 First, run `pnpm i` to install the dependencies.
